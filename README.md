@@ -55,4 +55,4 @@ This project is licensed under the MIT License. See the `LICENSE` file for detai
 ### References
 
 1. [Formulation of the Double Pendulum Equations of Motion](https://www.physics.umd.edu/hep/drew/pendulum2.html)
-2. Image: [Double Pendulum](https://media.licdn.com/dms/image/D5612AQFmaZYmrGOpeQ/article-cover_image-shrink_600_2000/0/1685585399017?e=2147483647&v=beta&t=Z-AzQWWhOOjpEuA1HL3xruBeq6cbs9XLQ-5pCvyupSg)
+2. Image: [Double Pendulum](https://rjallain.medium.com/finding-the-equation-of-motion-for-a-double-pendulum-cff2635f99bd)
